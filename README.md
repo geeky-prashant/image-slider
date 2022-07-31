@@ -9,7 +9,7 @@
 
   <h2 align="center">Image Slider</h2>
 
-  In this project, I have created Image Slider with Autoplay, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created Image Slider with Autoplay, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/image-slider/"><strong>➥ Live Demo</strong></a>
 
